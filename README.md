@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao perfil de Larissa Sgarbi 😁
+##  Hi, I'm Larissa
+## Welcome to my profile!
 
  <div>
    <a href="https://github.com/l-sgarbi">
@@ -14,7 +15,7 @@
  
  <br>
  
-  ### Para contato, me segue nas redes abaixo!
+  ### Get in touch with me on my social media
  
 <div> 
 
