@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de l-sgarbi 😁
+## Bem-vindo(a) ao perfil de Larissa Sgarbi 😁
 
  <div>
    <a href="https://github.com/l-sgarbi">
