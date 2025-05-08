@@ -1,9 +1,8 @@
 # Larissa Sgarbi
 
 🚀 Passionate learner |🌱 Agronomic Engineer |🌍 Tech Enthusiast
- 
----
 
+ 
 ## Languages & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
@@ -14,14 +13,12 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-000?style=flat&logo=visual-studio-code)
 
----
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l-sgarbi&theme=transparent&bg_color=0aa48c&border_color=0aa48c&show_icons=true&icon_color=181c49&title_color=FFF&text_color=FFF&hide_title=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=l-sgarbi&layout=compact&bg_color=0AA48C&border_color=0AA48C&title_color=FFF&text_color=FFF)
 
----
 
 ## 🤝 Let's Connect
 
@@ -30,4 +27,3 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/lari.as/)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lari_sgarbi/)
 
----
